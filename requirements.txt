@@ -1,3 +1,6 @@
 numpy
 matplotlib
 requests
+pillow
+tensorflow
+tensorflow_hub
